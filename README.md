@@ -14,7 +14,7 @@ The OHRC is a key instrument onboard Chandrayaan-2, capable of capturing detaile
 It offers a resolution of 25 cm from an orbit of 100 km, making it possible to capture precise details of the lunar surface, even in shadowed regions.
 The images from OHRC assist in identifying the topography and conditions within the PSRs, revealing features such as potential ice deposits, surface roughness, and depth.
 
-3. **$${\color{aqua}Enhancing\space PSR\space Imagery\space Image\space Processing\space Techniques:\space}$$**
+3.**$${\color{aqua}Enhancing\space PSR\space Imagery\space Image\space Processing\space Techniques:\space}$$**
 
 To enhance the visibility of PSRs, advanced image processing techniques, such as contrast enhancement, thermal imaging, and 3D modeling, are applied to improve the analysis of shadowed areas.
 
