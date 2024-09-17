@@ -20,7 +20,7 @@ To enhance the visibility of PSRs, advanced image processing techniques, such as
 
 4.**$${\color{aqua}Importance\space of\space Enhancing\space PSR\space Data\space Exploration\space and\space Resource\space Utilization\space:\space}$$**
 
-Enhanced understanding of PSRs, especially in identifying water ice, can be crucial for future lunar missions, particularly for in-situ resource utilization (ISRU) to support long-term human exploration.
+Enhanced understanding of PSRs, especially in identifying water ice, can be crucial for future lunar missions, particularly for ***in-situ resource utilization (ISRU)*** to support long-term human exploration.
 Scientific Insights: Studying the composition and evolution of PSRs can offer clues about the history of the solar system and the moon’s geological processes.
 Navigation and Landing Sites: Enhanced PSR data can also help in selecting safe landing sites for future missions targeting lunar poles.
 
