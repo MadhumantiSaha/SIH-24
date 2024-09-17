@@ -8,7 +8,7 @@ PSRs are areas on the moon, especially near the poles, that never receive direct
 These regions are critical as they may contain frozen water and other volatiles, preserved for millions of years, making them valuable for future lunar exploration.
 Understanding and mapping PSRs can provide insights into the lunar environment and offer potential resources for sustained human and robotic missions.
 
-2. **$${\color{aqua}Chandrayaan-2's\space OHRC:\space}$$**
+2.**$${\color{aqua}Chandrayaan-2's\space OHRC:\space}$$**
 
 The OHRC is a key instrument onboard Chandrayaan-2, capable of capturing detailed high-resolution images of the lunar surface, including PSRs.
 It offers a resolution of 25 cm from an orbit of 100 km, making it possible to capture precise details of the lunar surface, even in shadowed regions.
