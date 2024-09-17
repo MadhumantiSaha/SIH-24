@@ -1,6 +1,6 @@
 
-# $${\color{purple}Enhancement\space of\space Permanently\space Shadowed\space Regions\space (PSR)\space of\space Lunar\space Craters\space Captured\space by\space OHRC\space of\space Chandrayaan-2\space}$$
-The enhancement of Permanently Shadowed Regions (PSR) of lunar craters, especially through the high-resolution images captured by the Orbiter High-Resolution Camera (OHRC) onboard Chandrayaan-2, is a significant subject in lunar exploration.
+# $${\color{purple}Enhancement\space of\space Permanently\space Shadowed\space Regions\space}$$  $${\color{purple}(PSR)\space of\space Lunar\space Craters\space Captured\space by\space OHRC\space of\space Chandrayaan-2\space}$$
+*The enhancement of Permanently Shadowed Regions (PSR) of lunar craters, especially through the high-resolution images captured by the Orbiter High-Resolution Camera (OHRC) onboard Chandrayaan-2, is a significant subject in lunar exploration.*
 
 1.**$${\color{aqua}Permanently\space Shadowed\space Regions\space (PSR)\space Overview:\space}$$**
 
