@@ -1,6 +1,7 @@
 
 # Enhancement of Permanently Shadowed Regions (PSR) of Lunar Craters Captured by OHRC of Chandrayaan-2
 The enhancement of Permanently Shadowed Regions (PSR) of lunar craters, especially through the high-resolution images captured by the Orbiter High-Resolution Camera (OHRC) onboard Chandrayaan-2, is a significant subject in lunar exploration.
+![Uploading ch2_ohr_ncp_20230314T2248163763_b_brw_d32.png…]()
 
 1.**Permanently Shadowed Regions (PSR) Overview:**
 
